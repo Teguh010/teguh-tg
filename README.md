@@ -28,5 +28,5 @@ link:
 
 ## Author
 
-Name: Henry Jaimes
-Email: henryjaimes.peli@gmail.com
+Name: Teguh
+Email: teguhbadrusalam6@gmail.com
